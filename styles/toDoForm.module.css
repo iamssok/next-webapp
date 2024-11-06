@@ -1,0 +1,54 @@
+.todoForm {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 400px;
+  height: 100%;
+  padding: 40px;
+  box-sizing: border-box;
+  background-color: rgba(43, 42, 44, 0.3);
+}
+.greeting {
+  margin-bottom: 10px;
+  font-weight: 500;
+  font-size: 30px;
+  color: #fff;
+}
+.todoForm input {
+  width: 240px;
+  height: 40px;
+  padding: 0 15px;
+  border: 0;
+  box-sizing: border-box;
+  font-size: 15px;
+}
+.todoForm button {
+  width: 80px;
+  height: 40px;
+  border: 0;
+  font-weight: 700;
+  font-size: 15px;
+  cursor: pointer;
+}
+.todoList {
+  margin-top: 20px;
+  padding: 0 10px;
+}
+.todoList li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 15px 0;
+}
+.todoList li span {
+  font-weight: 400;
+  font-size: 15px;
+  color: white;
+}
+.todoList li button {
+  width: auto;
+  height: auto;
+  border: 0;
+  background: none;
+  cursor: pointer;
+}

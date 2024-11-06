@@ -1,0 +1,23 @@
+.clock {
+  position: absolute;
+  left: 100px;
+  bottom: 130px;
+  font-weight: 400;
+  font-size: 120px;
+  color: white;
+  letter-spacing: -2px;
+}
+.clock span {
+  position: relative;
+  top: -10px;
+  margin: 0 -10px;
+}
+.calendar {
+  position: absolute;
+  left: 100px;
+  bottom: 100px;
+  font-weight: 400;
+  font-size: 35px;
+  color: white;
+  letter-spacing: -1px;
+}

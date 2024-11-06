@@ -1,0 +1,25 @@
+{
+  "name": "webapp-by-next",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@types/node": "22.9.0",
+    "@types/react": "18.3.12",
+    "typescript": "5.6.3"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "description": "Webapp by Next.js",
+  "dependencies": {
+    "next": "^14.2.16",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}

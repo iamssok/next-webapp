@@ -1,0 +1,11 @@
+.weather {
+  position: absolute;
+  right: 40px;
+  bottom: 40px;
+  text-align: right;
+}
+.weather p {
+  margin: 5px 0;
+  font-size: 18px;
+  color: white;
+}
