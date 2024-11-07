@@ -51,6 +51,7 @@ export default function Weather() {
         (error) => {
           setError('위치 검색에 실패');
           console.error('Error:', error);
+          alert("Can't find you. No weather for you.");
         }
       );
     } else {
