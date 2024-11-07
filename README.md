@@ -34,14 +34,6 @@
 
 - [x] HTML5
 - [x] CSS3
-- [ ] SCSS
-- [ ] JavaScript
-- [ ] jQuery
 - [x] React
 - [x] Next.js
 - [x] TypeScript
-- [ ] TanStack Query (React Query)
-- [ ] Recoil
-- [ ] Styled-Components
-- [ ] Bootstrap
-- [ ] ChatGPT
